@@ -5,13 +5,13 @@
 </template>
 
 <script>
-  import page1 from 'Page1';
+  import start from 'startScreen';
   import page2 from 'Page2';
 
   export default {
     data() {
       return {
-        pageStack: [page1]
+        pageStack: [start]
       }
     }
   }
