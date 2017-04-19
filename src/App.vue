@@ -6,7 +6,7 @@
 
 <script>
   import start from 'startScreen';
-  import page2 from 'Page2';
+  import overView from 'overView';
 
   export default {
     data() {
